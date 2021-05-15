@@ -1,1 +1,1 @@
-This is a discription of my linked implementation in Java Language . 
+Linked list implementation in Java Language . 
